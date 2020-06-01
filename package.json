@@ -1,0 +1,20 @@
+{
+  "name": "greek-mythological-figures",
+  "version": "1.0.0",
+  "description": "Compilation of Greek mythological figures in JSON format!",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeSchwert/Greek-mythological-figures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "SEE LICENCE IN LICENCE",
+  "bugs": {
+    "url": "https://github.com/CodeSchwert/Greek-mythological-figures/issues"
+  },
+  "homepage": "https://github.com/CodeSchwert/Greek-mythological-figures#readme"
+}

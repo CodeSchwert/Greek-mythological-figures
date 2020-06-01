@@ -1,0 +1,142 @@
+[
+  {
+    "greek_name": "Ἀστερία (Astería)",
+    "english_name": "Asteria",
+    "description": "Titaness of nocturnal oracles and falling stars."
+  },
+  {
+    "greek_name": "Ἀστραῖος (Astraîos)",
+    "english_name": "Astraeus",
+    "description": "Titan of dusk, stars, and planets, and the art of astrology."
+  },
+  {
+    "greek_name": "Ἄτλας (Átlas)",
+    "english_name": "Atlas",
+    "description": "Titan forced to carry the heavens upon his shoulders by Zeus. Presumed to be the Titan of endurance and astronomy. Also Son of Iapetus."
+  },
+  {
+    "greek_name": "Κοῖος (Koîos)",
+    "english_name": "Coeus",
+    "description": "Titan of intellect and the axis of heaven around which the constellations revolved."
+  },
+  {
+    "greek_name": "Κρεῖος (Kreîos)",
+    "english_name": "Crius",
+    "description": "The least individualized of the Twelve Titans, he is the father of Astraeus, Pallas, and Perses. Implied to be the Titan of constellations."
+  },
+  {
+    "greek_name": "Κρόνος (Krónos)",
+    "english_name": "Cronus",
+    "description": "Titan of harvests and personification of destructive time. The leader of the Titans, who overthrew his father Uranus only to be overthrown in turn by his son, Zeus. Not to be confused with Chronos."
+  },
+  {
+    "greek_name": "Διώνη (Diṓnē)",
+    "english_name": "Dione",
+    "description": "Titaness of the oracle of Dodona."
+  },
+  {
+    "greek_name": "Ἠώς (Ēṓs)",
+    "english_name": "Eos",
+    "description": "Titaness of the dawn."
+  },
+  {
+    "greek_name": "Ἐπιμηθεύς (Epimētheús)",
+    "english_name": "Epimetheus",
+    "description": "Titan of afterthought and the father of excuses."
+  },
+  {
+    "greek_name": "Ἥλιος (Hḗlios)",
+    "english_name": "Helios",
+    "description": "Titan of the sun and guardian of oaths."
+  },
+  {
+    "greek_name": "Ὑπερίων (Hyperíōn)",
+    "english_name": "Hyperion",
+    "description": "Titan of light. With Theia, he is the father of Helios (the sun), Selene (the moon), and Eos (the dawn)."
+  },
+  {
+    "greek_name": "Ἰαπετός (Iapetós)",
+    "english_name": "Iapetus",
+    "description": "Titan of mortality and father of Prometheus, Epimetheus, Menoetius, and Atlas."
+  },
+  {
+    "greek_name": "Λήλαντος (Lēlantos)",
+    "english_name": "Lelantos",
+    "description": "The Titan father of the nymph Aura. Said to have probably been the Titan of air and the unseen."
+  },
+  {
+    "greek_name": "Λητώ (Lētṓ)",
+    "english_name": "Leto",
+    "description": "Titaness of motherhood and mother of the twin Olympians, Artemis and Apollo."
+  },
+  {
+    "greek_name": "Μενοίτιος (Menoítios)",
+    "english_name": "Menoetius",
+    "description": "Titan of violent anger, rash action, and human mortality. Killed by Zeus."
+  },
+  {
+    "greek_name": "Μῆτις (Mē̂tis)",
+    "english_name": "Metis",
+    "description": "Titaness of good counsel, advice, planning, cunning, craftiness, and wisdom. Mother of Athena."
+  },
+  {
+    "greek_name": "Mνημοσύνη (Mnēmosýnē)",
+    "english_name": "Mnemosyne",
+    "description": "Titaness of memory and remembrance, and mother of the Nine Muses."
+  },
+  {
+    "greek_name": "Ὠκεανός (Ōceanós)",
+    "english_name": "Oceanus",
+    "description": "Titan of the all-encircling river Oceans around the earth, the fount of all the Earth's fresh-water."
+  },
+  {
+    "greek_name": "Πάλλας (Pállas)",
+    "english_name": "Pallas",
+    "description": "Titan of warcraft. He was killed by Athena during the Titanomachy."
+  },
+  {
+    "greek_name": "Πέρσης (Pérsēs)",
+    "english_name": "Perses",
+    "description": "Titan of destruction."
+  },
+  {
+    "greek_name": "Φοίβη (Phoíbē)",
+    "english_name": "Phoebe",
+    "description": "Titaness of the \"bright\" intellect and prophecy, and consort of Koios."
+  },
+  {
+    "greek_name": "Προμηθεύς (Promētheús)",
+    "english_name": "Prometheus",
+    "description": "Titan of forethought and crafty counsel, and creator of mankind."
+  },
+  {
+    "greek_name": "Ῥέα (Rhéa)",
+    "english_name": "Rhea",
+    "description": "Titaness of fertility, motherhood and the mountain wilds. She is the sister and consort of Cronus, and mother of Zeus, Hades, Poseidon, Hera, Demeter, and Hestia."
+  },
+  {
+    "greek_name": "Σελήνη (Selḗnē)",
+    "english_name": "Selene",
+    "description": "Titaness of the moon."
+  },
+  {
+    "greek_name": "Στύξ (Stýx)",
+    "english_name": "Styx",
+    "description": "Titaness of the Underworld river Styx and personification of hatred."
+  },
+  {
+    "greek_name": "Τηθύς (Tēthýs)",
+    "english_name": "Tethys",
+    "description": "Titaness of fresh-water, and the mother of the rivers, springs, streams, fountains, and clouds."
+  },
+  {
+    "greek_name": "Θεία (Theía)",
+    "english_name": "Theia",
+    "description": "Titaness of sight and the shining light of the clear blue sky. She is the consort of Hyperion, and mother of Helios, Selene, and Eos."
+  },
+  {
+    "greek_name": "Θέμις (Thémis)",
+    "english_name": "Themis",
+    "description": "Titaness of divine law and order."
+  }
+]
