@@ -1,0 +1,107 @@
+[
+  {
+    "greek_name": "Ἀχλύς (Akhlús)",
+    "english_name": "Achlys",
+    "description": "The goddess of poisons, and the personification of misery and sadness. Said to have existed before Chaos itself."
+  },
+  {
+    "greek_name": "Αἰθήρ (Aithḗr)",
+    "english_name": "Aether",
+    "description": "The god of light and the upper atmosphere."
+  },
+  {
+    "greek_name": "Αἰών (Aiōn)",
+    "english_name": "Aion",
+    "description": "The god of eternity, personifying cyclical and unbounded time. Sometimes equated with Chronos."
+  },
+  {
+    "greek_name": "Ἀνάγκη (Anánkē)",
+    "english_name": "Ananke",
+    "description": "The goddess of inevitability, compulsion, and necessity."
+  },
+  {
+    "greek_name": "Χάος (Kháos)",
+    "english_name": "Chaos",
+    "description": "The personification of nothingness from which all of existence sprang. Depicted as a void. Initially genderless, later on described as female."
+  },
+  {
+    "greek_name": "Χρόνος (Khrónos)",
+    "english_name": "Chronos",
+    "description": "The god of empirical time, sometimes equated with Aion. Not to be confused with the Titan Cronus (Kronos), the father of Zeus."
+  },
+  {
+    "greek_name": "Ἔρεβος (Érebos)",
+    "english_name": "Erebus",
+    "description": "The god of darkness and shadow."
+  },
+  {
+    "greek_name": "Ἔρως (Érōs)",
+    "english_name": "Eros",
+    "description": "The god of love and attraction."
+  },
+  {
+    "greek_name": "Γαῖα (Gaîa)",
+    "english_name": "Gaia (Gaea)",
+    "description": "Personification of the Earth (Mother Earth); mother of the Titans."
+  },
+  {
+    "greek_name": "Ἡμέρα (Hēméra)",
+    "english_name": "Hemera",
+    "description": "The goddess of day."
+  },
+  {
+    "greek_name": "Ὕπνος (Húpnos)",
+    "english_name": "Hypnos",
+    "description": "The personification of sleep."
+  },
+  {
+    "greek_name": "Νέμεσις (Némesis)",
+    "english_name": "Nemesis",
+    "description": "The goddess of retribution."
+  },
+  {
+    "greek_name": "Νῆσοι (Nêsoi)",
+    "english_name": "The Nesoi",
+    "description": "The goddesses of islands."
+  },
+  {
+    "greek_name": "Νύξ (Núx)",
+    "english_name": "Nyx",
+    "description": "The goddess of night."
+  },
+  {
+    "greek_name": "Οὔρεα (Oúrea)",
+    "english_name": "The Ourea",
+    "description": "The gods of mountains."
+  },
+  {
+    "greek_name": "Φάνης (Phánēs)",
+    "english_name": "Phanes",
+    "description": "The god of procreation in the Orphic tradition."
+  },
+  {
+    "greek_name": "Πόντος (Póntos)",
+    "english_name": "Pontus",
+    "description": "The god of the sea, father of the fish and other sea creatures."
+  },
+  {
+    "greek_name": "Τάρταρος (Tártaros)",
+    "english_name": "Tartarus",
+    "description": "The god of the deepest, darkest part of the underworld, the Tartarean pit (which is also referred to as Tartarus itself)."
+  },
+  {
+    "greek_name": "Θάλασσα (Thálassa)",
+    "english_name": "Thalassa",
+    "description": "Personification of the sea and consort of Pontus."
+  },
+  {
+    "greek_name": "Θάνατος (Thánatos)",
+    "english_name": "Thanatos",
+    "description": "God of death. Brother to Hypnos (Sleep) and Moros (Doom)."
+  },
+  {
+    "greek_name": "Οὐρανός (Ouranós)",
+    "english_name": "Uranus",
+    "description": "The god of the heavens (Father Sky); father of the Titans."
+  }
+]
